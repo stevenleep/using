@@ -39,6 +39,7 @@ tools i am using
   - zsh-syntax-highlighting
   - [gitignore](https://github.com/voronkovich/gitignore.plugin.zsh): Provides a gi command to query and create gitignore template
   - [command-not-found](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/command-not-found/command-not-found.plugin.zsh): When the command does not exist, it will automatically query
+  - [Fig](https://fig.io/)
 
 ### Software
 
